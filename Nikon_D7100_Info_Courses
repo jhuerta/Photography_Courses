@@ -1,0 +1,118 @@
+Nikon D7100 
+=======================================================
+
+TOP BUTTSONA AND DIALS
+-------------------------------------------------------
+	Command Dial at the back
+	Sub command dial at the front
+	Multiselector, up-down or cursor at the back
+	Shutter button: Half way pres-> AF *(auto focus) and Light meetering
+	Mode dial:
+				Full auto: Does everything and will lock out any other feature!
+				Full auto with flash off: Same as auto, but it wont turn on the flash
+				Scenes, effects: Some of the things changed are AF, meetering, shutter speed, aperture and ISO
+				P (program mode): 	Same as auto, but allows you to modify shutter speed and aperture and flash
+									It remember the last modification on the P mode (while sleep), until you turn it on/off
+				Shutter priority: It goes all the way up to 30 seconds and then goes to XS50, which is the same as 1/250 when it was used with flash
+									One of the options is when shutting sports (fast movement), or with auto-iso. The main problem is that the camera has limited range of options of aperture to match the speed
+				Apperture priority: With any aperture, the camera will the correct shutter speed, although it may be quite slow! (you'll need a tripod)
+				U1, U2: User custom settings. Pre-program the camera for the user.
+	Exposure compensation: To be used only in P, S or A
+							The camera tryes to average all colors into a soft gray, this can be modified into 
+							Bright background (ski, beach ...): Go for positive values
+							Dark background: Go for negative values
+							Can be set with the +/- or setting the unused dial in the the custom menu
+	Metering: 	How light is readed by the camera. 
+				The recomended is the matrix one.
+	Frame count: You can modify whether to see the number of pics left, or the ISO. However, when seeing the ISO, you can configure to see remaining frames while pusshing the shutter button **
+
+	
+	BACK BUTTONS AND DIALS
+-------------------------------------------------------
+	Single mode, temp, continuous fast (6 fps) or continuous slow (configurable)
+	Mirror lock up: First remove the mirror and later on, open the sensor. It reduces some vibrations, useful from 1/30 to 1sec in tripod
+	Zoom in, zoom out: Zoom out will go up to calendar mode
+	Multiselector (up/down) will display information on the picture. But you need to modify the playback menu. **
+	i button: Shortcut to retouch (while on play back menu)
+	White balance: 	shade (8K), cloudy (6K), (5.5K), sunglight (5K), fluorescent (4-5K), incandescent (3k)
+					PRE: Just by pointing to something white, the camera will autoadjust to it **
+					Auto WB: Not bad at all. Set by default and maybe change when in specific, long term situations
+	Quality mode: Set it to L Fine
+
+	
+	MORE ABOUT BUTTONS
+-------------------------------------------------------
+	ISO:
+		Quite good up to 6400. Above that quite noisy,try to avoid. Usually very acceptable for 3200 and below.
+		Lo 1: 50
+		Hi 1: 128000
+		Hi 2: 256000
+		Auto ISO: You can set the maximum ISO
+					You can set the minimum shutter speed before changing the ISO. Or, after what shutter speed (low) the ISO will be auto selected
+	Info Button: Shorcut to options, in different manners in different screens (movie, live view or playback)
+	Auto focus/auto exposure lock: It will lock the exposure, or the focus (continuous mode) whent taking the picture. It may be configured to force the focus, which will force 2 steps to take the picture (focus and shutter)
+	OK Button: Can as well be configure
+
+	LIVE VIEW AND MOVIE MODE
+-------------------------------------------------------
+	Live view and movie mode control: 
+		Live view (on/off) for taking pictures: The AF changes, since the mirror is always up, and the AF is not as fast as when no live view mode ** 
+		Movide mode: For pictures
+	Auto Focus:
+		While pressing the AF control (left of the lens), you can control:
+			Where to focus: normal, wide, spot, face recognitions
+			When to focus: single, continuous, auto tracking
+			Try this when Live View on and off **
+
+
+	OTHER THINGS
+-------------------------------------------------------
+	Infrared ML-L3
+	Restore default camera settings: Green dot (zoom out and +/-)
+	Flash buttons: 
+		Flash modes can be modified (command dial) and can as well be compensated reducing TTL (sub command dial). 
+		To adjust this, press at the same time flash button and command dials.
+		TTL through the lense , that is the flash automaticall calcualted. It can be reduced, modifying the exposure compensation (TTL-n)
+	Braketting: It can as well be adjust with command dials. It will adjust both the number of pictures and the steps of compensation to modify
+	AF Mode button **
+		Sub command dial:
+			AF-S: Single servo AF. If focus once
+			AF-C: Continous servo AF, it continuos focusing
+			AF-A Auto Servo AF
+		Command dial:
+			D stands for dynamic
+			D9, D21: That's the area where it will focus
+			D51: Will choose a subject among a bigger field and it will follow
+			Auto: It picks automatically
+			Is there a difference (beside the size) for D21 or D51
+		Focus Points:
+			Some look for vertical alignment, other for horizontal and they work better for up to a maximum aperture. 
+			D7100 contains: 
+				In the sides of the areas are Horizontal points for f/5.6
+				In the middle is cross types f/5.6
+				The very one is a cross type f/8, and the most sensitive and accurate
+				So, the best AF is in the middle.
+				Try to focus on places with lines, not on plain color areas **
+		VR: Vibration reduction on camera. Turn it off on tripod! **
+		WIFI Adaptor: NIkon WU-1a
+		PRE: Use it to automatically set the white balance
+		Color Space: Modify to AdobeRGB **
+		Auto Distorsion Control: Set ON **
+		Long exposure NR (noise reduction): Set to Off ** - To do on PC
+		High ISO NR (noise reduction): Set to Off ** - To do on PC
+		Minimum Shutter Speed (ISO): Set to auto and the camera will adjust to the lens
+		Multiple Exposure: Multiple images on the same image - Also can be done on camera 
+
+
+	CUSTOM MENU
+-------------------------------------------------------
+	Focus tracking with lock-on. Allows to adjust how fast/often the focus point changes **
+	Center-wetering: You can customize the diameter
+	Beep: Turn off the beep **
+	CL Mode shooting speed: 3 fps - Play with this to modify the number of pictures to take **
+	f.Controls: OK, Fn, Prview, AE-L/AF-L button ... tons of custom changes to assign different functions to other things
+	f5. Change shutter speed/aperture so it follows the exposure direction ** 
+	Change Time zone and date **
+	AF Fine Tune. Fine too the camera **
+	Firmware version. Update latest firmware **
+	My Menu. Use it to add your most frequent settings **
