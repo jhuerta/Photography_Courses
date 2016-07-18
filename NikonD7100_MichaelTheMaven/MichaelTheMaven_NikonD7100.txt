@@ -1,0 +1,78 @@
+NIKON D7100 CRASH COURSE
+http://canontrainingvideo.com/index.php?main_page=product_info&cPath=3&products_id=58
+http://michaelthemaven.com/?postID=2826&nikon-d7100-crash-couse-training-tutorial-dvd-now-in-stock
+=======================================================
+
+
+Impact of Focal Lense
+--------------------------------------------------------------------------
+	Large focal lense (Zoom) ->		Background larger and closer
+	(Narrow field of view)			No deep background. Primary subject surrounded by backgroun.
+									Background spread
+									Bakground bigger
+									Vertical lines diverting \/
+									Back shorter than front (for same real length)
+									Horizontal lines parallels
+
+	Small focal lense (Macro) ->	Background smaller and further
+	(Wide field of view)			Background compressed
+									Feeling of deep, projected background
+									Background smaller
+									Vertical lines converging /\
+									Back bigger than front (for same real length)
+									Horizontal lines curved \______/ (in extreme case, 20mm orless)
+									Nose and body distorted (flat nose, bigger body) for 20 mm or less
+
+Depth of field:
+--------------------------------------------------------------------------
+	Proportional to:
+		Distance to subject
+		Focal length
+	Inverse to:
+		Aperture
+	Shallow DOF: close to subject, big aperture, telephoto
+	Deep DOF: away from subject, small aperture, wide lens
+
+Composition
+--------------------------------------------------------------------------
+	Rule of thirds
+	Dealing with subject
+		Give dimension to objects (shoot from one side)
+		Angle of attack to change perception
+		Distance to subject and amount of subject in frame
+		Perspective of subjects to control the relative size of different subjects:
+			Get closer to the main subject
+			Distance the subjects
+			Use of different focal length
+	Surrounding:
+		Sense of depth by getting guiding lines
+		Avoid distractions, preferably by compsition
+		Use contrast wtih background to hightlight shape of subjects
+	Texture:
+		Pattern that repeats
+	Overexposure: Too much light for the sensor to be distinguised and processed
+
+Camera Modes
+--------------------------------------------------------------------------
+	While being on S mode, if the camera can't get enough exposure with the lense aperture, the chosen aperture (max. aperture), will blink. 
+		This will tell you that there is not enough light (or too much) that could compensated.
+	Camera options:
+		Shutter speed
+		Aperture
+		ISO
+		White Balance
+		Metering
+		Focus Drive
+		Comperession Format
+	Use the exposure compensation when you want to mantain the aperture desired (A mode) or shutter speed desired (S mode) and still the exposure is not what you wanted.
+	When it's too dark, compensate with more light, when too bright, compensate with less light.
+	Backlight subject: When shooting with light in front, aim to the sides/bottom where no sun is shining, and press AE-L (Auto exposure lock). This will lock the aperture/shutter speed. Then, proceed normally.
+	Play with AE-L/AF-L **
+	Play with minimum shutter speed and auto ISO in Aperture Mode, Shutter Speed Priority and Manual mode
+	Menu:
+		Press ok or move right
+		Press menu or left to go back
+
+Camera customizations
+--------------------------------------------------------------------------
+	AE-L Lock the auto exposure with half-press (c-1) **
