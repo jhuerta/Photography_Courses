@@ -1,0 +1,82 @@
+WHY YOU MIGHT WANT TO SWITCH TO LIGHTROOM
+http://kelbyone.com/course/skelby_whyswitch2lr/
+=======================================================
+
+LEARN LIGHTROOM CC IN 1 HOUR
+http://kelbyone.com/course/skelby_learnlrccin1hr/
+=======================================================
+
+
+	TIPS
+	--------------------------------------------------------------------------
+
+		Use external hard drive for your pictures
+		Know where your pictures are
+
+		Shurtcuts
+			Shift-Command i: Import pictures
+			g: Grid thumbnails
+			l, l l: lights dim, lights out
+			d: Develop module
+			shift-tab: Just display all the thumbnails
+			command+a: Select all
+			m: (survey mode) Displays all the picture selected in a nice display. They can be removed by clicking on the cross
+			command+z: Undo
+			command+apostroph: create virtual copy
+			': See original picture
+			doble click on slider: Auto set
+			x (while cropping): Switch vertical/horizontal crop
+		Catalog:
+			Kind of shows what you have in lightroom and to work safely
+		Solo Mode: Only displays the panel I'm working on
+		Select workflow:
+			1. Go, browse through the pictures and mark them as:
+				p : pick (keeper)
+				x: delete				
+				u: undo
+			2. Delete rejected pictures ()
+			3. Menu Photo: Delete rejected photos
+					Delte from disk: Completely delete
+					Remove: Get them out of LightRoom (still in the hard drive)
+			4. Use the filter to selected picked, unmarked or deleted
+			5. Put them into a collection
+			6. Once they are in a collection, we can unmark them all again and pick only the really ones we want
+			7. A collection set will combine collections
+
+		Develop:
+			BASIC:
+				White balance: If using the auto picker, select a neutral soft gray
+				WHITES and BLACKS can be set automatically by double clicking
+				HIGHLIGHT will bring back to live sections in the picture with no information. This parts show in the histogram by selecting the triangle, when parts of the picture are blown up, with too much light. Also for blund skies
+				Use SHADOWS to get info from dark sections
+				CLARITY will bring up texture
+				CONTRAST: Whitening the wites, and blackening the blacks. It will give volumes to flact pictues
+				VIBRANCE: Gives color!
+				SATURACION
+				AUTO: As it says
+			MASK: 
+				Select with brush parts of the picture you want to modify 
+			TONE CURVE:
+				Rise left corner verticall along the edge to make it more transparent. 
+				Drag the picture to a new print
+
+
+
+LIGHTROOM KILLER TIPS
+http://kelbyone.com/course/napp_skelby_lrkillertips/
+=======================================================
+
+
+LIGHTROOM CC: BASICS FOR PHOTOGRAPHERS
+http://kelbyone.com/course/rc_lightroom_cc_basics/
+=======================================================
+
+Lightroom Crash Course
+http://kelbyone.com/course/napp_mattk_lr5_crashcourse/
+=======================================================
+
+	TIPS:
+		Black and Whites: To select a nice point, hold alt key while dragging the slider whites or blacks. The whole image turns black (or white) and move the slider until you see a bit part of the white or black area. That would be a good starting poing for the white and blacks.
+		Clarity: Adds texture. Good to apply when there is no people.
+		Vibrance: Boost up colors except skin colors. It is kind inteligent saturation, it only applies saturations for those colors needed.
+		Saturation is for everything.
